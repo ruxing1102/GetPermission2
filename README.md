@@ -2,7 +2,7 @@
 
 
 
-实现效果：![加载失败]https://github.com/ruxing1102/GetPermission2/blob/master/app/src/main/res/raw/xiaoguotu.gif
+实现效果：![加载失败](https://github.com/ruxing1102/GetPermission2/blob/master/app/src/main/res/raw/xiaoguotu.gif)
 
 
 
